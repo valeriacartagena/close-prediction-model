@@ -1,0 +1,10 @@
+data/
+models/
+submission/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+.DS_Store 

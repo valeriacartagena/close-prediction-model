@@ -1,0 +1,9 @@
+{
+  "sharpe": 0.5636964510170456,
+  "hit_rate": 0.5162303664921466,
+  "total_pnl": 3502.986855174791,
+  "max_drawdown": 0.00036528778218780644,
+  "num_trades": 5436,
+  "threshold": 0.0,
+  "confidence_weighted": false
+}

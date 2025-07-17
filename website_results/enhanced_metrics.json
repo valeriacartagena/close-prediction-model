@@ -1,0 +1,29 @@
+{
+  "LGBM Regression": {
+    "sharpe": 0.9063878928318182,
+    "hit_rate": 0.9935268919562114,
+    "total_pnl": 6646.441157752638,
+    "max_drawdown": 0.09622094844689855,
+    "num_trades": 10505,
+    "threshold": 0.0,
+    "confidence_weighted": false
+  },
+  "LGBM Classification": {
+    "sharpe": 0.5636964510170456,
+    "hit_rate": 0.5162303664921466,
+    "total_pnl": 3502.986855174791,
+    "max_drawdown": 0.00036528778218780644,
+    "num_trades": 5436,
+    "threshold": 0.0,
+    "confidence_weighted": false
+  },
+  "Ridge": {
+    "sharpe": 0.4351420589531442,
+    "hit_rate": 0.6099000475963827,
+    "total_pnl": 3948.8520774057624,
+    "max_drawdown": 8.941314538452389,
+    "num_trades": 10505,
+    "threshold": 0.0,
+    "confidence_weighted": false
+  }
+}
